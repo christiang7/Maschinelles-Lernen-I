@@ -12,10 +12,6 @@ Visualizing distributions of data — seaborn 0.13.2 documentation
 
 https://seaborn.pydata.org/tutorial/distributions.html#distribution-tutorial
 
-Change Data Type for one or more columns in Pandas Dataframe - GeeksforGeeks 
-
-https://www.geeksforgeeks.org/change-data-type-for-one-or-more-columns-in-pandas-dataframe/
-
 Kernel density estimation - Wikipedia 
 
 https://en.wikipedia.org/wiki/Kernel_density_estimation
