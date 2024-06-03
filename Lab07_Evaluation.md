@@ -9,4 +9,5 @@ https://altair.com/resourcelibrary?platform=Altair+RapidMiner&lang=English
 
 
 
-
+How to Plot a ROC Curve in Python (Step-by-Step) - Statology 
+https://www.statology.org/plot-roc-curve-python/
