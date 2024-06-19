@@ -25,19 +25,4 @@ Perzeptron – Wikipedia
 https://de.wikipedia.org/wiki/Perzeptron
 
 
-## tasks
-Doing
-- [ ] Lab01
-	- [ ] Exercise
-- [ ] try to solve zoom problem
-Planning
-- [ ] Lab02
-	- [ ] Exercise
-Backlog
-- [ ] Lab03
-	- [ ] Lecture
-	- [ ] Exercise
-- [ ] Lab04
-	- [ ] Lecture
-	- [ ] Exercise
 
