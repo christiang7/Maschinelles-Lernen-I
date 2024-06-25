@@ -20,6 +20,16 @@ https://de.wikipedia.org/wiki/Arg_max
 Arg max - Wikipedia 
 https://en.wikipedia.org/wiki/Arg_max
  
+Indicator function - Wikipedia 
+https://en.wikipedia.org/wiki/Indicator_function
+Continuous uniform distribution - Wikipedia 
+https://en.wikipedia.org/wiki/Continuous_uniform_distribution
+Box–Muller transform - Wikipedia 
+https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform
+Continuous uniform distribution - Wikipedia 
+https://en.wikipedia.org/wiki/Continuous_uniform_distribution
+How do you generate uniformly distributed random integers? | AnonymousOverflow 
+https://overflow.adminforge.de/questions/5008804/how-do-you-generate-uniformly-distributed-random-integers
 
 
 
